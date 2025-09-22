@@ -1,2 +1,2 @@
 # NOTES
-This repository is used for storing public class notes.
+这个仓库用于储存一些我自己的课堂笔记，仅用作打卡与复习。
